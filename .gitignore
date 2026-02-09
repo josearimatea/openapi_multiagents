@@ -1,0 +1,5 @@
+.venv
+workspace/*
+Dataset/TSpec-LLM/*
+References
+Docs_create_rules
